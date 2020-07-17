@@ -6,4 +6,4 @@ I have made the following:
 - [Computing Technology Blog](https://helloacm.com)
 - [A few useless tools](https://helloacm.com/tools/)
 
-Like what I doing? [Buy me a coffee please](https://helloacm.com/out/buymecoffee).
+Like what I am doing? [Buy me a coffee please](https://helloacm.com/out/buymecoffee).
