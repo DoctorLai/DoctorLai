@@ -7,4 +7,4 @@ I have made the following:
 - [A few useless tools](https://helloacm.com/tools/)
 - [And some other online software/tools](https://steakovercooked.com/Software.Home)
 
-Like what I am doing? [Buy me a coffee please])(https://helloacm.com/out/buymecoffee or [Become my sponsor](https://github.com/sponsors/DoctorLai).
+Like what I am doing? [Buy me a coffee please](https://helloacm.com/out/buymecoffee) or [Become my sponsor](https://github.com/sponsors/DoctorLai).
