@@ -9,6 +9,13 @@ I have made the following:
 
 Like what I am doing? [Buy me a coffee please](https://helloacm.com/out/buymecoffee) or [Become my sponsor](https://github.com/sponsors/DoctorLai).
 
+## Free VPS Credit
+- $100 [Vultr Cloud VPS Credits](https://helloacm.com/out/vultr)
+- $20 [Linode Cloud VPS Credits](https://helloacm.com/out/linode)
+- $100 [Digital Ocean Cloud VPS Credits](https://helloacm.com/out/do)
+- $15 [Atlantic Cloud VPS Credits](https://helloacm.com/out/atlanic)
+- $5 (welcome30) [VPS Server Cloud VPS Credits](https://helloacm.com/out/vpss)
+
 ## Online Judges
 Here are my profiles on online judges:
 - https://binarysearch.com/@/justyy
@@ -20,3 +27,4 @@ Here are my profiles on online judges:
 
 
 ![](https://projecteuler.net/profile/justyy.png)
+
