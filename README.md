@@ -13,7 +13,7 @@ Like what I am doing? [Buy me a coffee please](https://helloacm.com/out/buymecof
 - $100 [Vultr Cloud VPS Credits](https://helloacm.com/out/vultr)
 - $20 [Linode Cloud VPS Credits](https://helloacm.com/out/linode)
 - $100 [Digital Ocean Cloud VPS Credits](https://helloacm.com/out/do)
-- $15 [Atlantic Cloud VPS Credits](https://helloacm.com/out/atlanic)
+- $15 [Atlantic Cloud VPS Credits](https://helloacm.com/out/atlantic)
 - $5 (welcome30) [VPS Server Cloud VPS Credits](https://helloacm.com/out/vpss)
 
 ## Online Judges
