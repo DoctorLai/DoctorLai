@@ -16,6 +16,10 @@ Like what I am doing? [Buy me a coffee please](https://helloacm.com/out/buymecof
 - $15 [Atlantic Cloud VPS Credits](https://helloacm.com/out/atlantic)
 - $5 (welcome30) [VPS Server Cloud VPS Credits](https://helloacm.com/out/vpss)
 
+## Social Networks
+- [@justyy at steemit](https://steemit.com/@justyy)
+- [@justyy at blurt](https://blurt.blog/@justyy)
+
 ## Online Judges
 Here are my profiles on online judges:
 - https://binarysearch.com/@/justyy
