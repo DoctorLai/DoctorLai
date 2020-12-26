@@ -6,7 +6,7 @@ I have made the following:
 - [Computing Technology Blog](https://helloacm.com)
 - [A few useless tools](https://helloacm.com/tools/)
 - [And some other online software/tools](https://steakovercooked.com/Software.Home)
-- [Teaching Kids Programming - Youtube Channel](https://www.youtube.com/channel/UCK2ugmUOoYne1qQfSAph4nQ?view_as=subscriber)
+- [Teaching Kids Programming - Youtube Channel](https://www.youtube.com/channel/UCK2ugmUOoYne1qQfSAph4nQ?view_as=subscriber) and [All Contents](https://github.com/DoctorLai/Teaching-Kids-Programming/blob/main/README.md)
 
 Like what I am doing? [Buy me a coffee please](https://helloacm.com/out/buymecoffee) or [Become my sponsor](https://github.com/sponsors/DoctorLai).
 
