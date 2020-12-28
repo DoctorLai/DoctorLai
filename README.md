@@ -1,5 +1,5 @@
 ## Hi there 👋
-I have made the following:
+I am currently a SDE at Amazon AWS ([Linkedin](https://www.linkedin.com/in/doctorlai/)). I have made the following:
 - [Video Downloader](https://weibomiaopai.com/download-video-parser.php)
 - [Steem Blockchain Tools](https://steemyy.com)
 - [VPS Database](https://anothervps.com/vps-database/)
