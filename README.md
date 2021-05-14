@@ -2,6 +2,7 @@
 I am currently a SDE at Amazon AWS ([Linkedin](https://www.linkedin.com/in/doctorlai/)). I have made the following:
 - [Video Downloader](https://weibomiaopai.com/download-video-parser.php)
 - [Steem Blockchain Tools](https://steemyy.com)
+- [Free Cryptos API](https://steemit.com/witness-category/@justyy/serverless-api-to-query-the-cryptos-and-fiat)
 - [VPS Database](https://anothervps.com/vps-database/)
 - [Computing Technology Blog](https://helloacm.com)
 - [A few useless tools](https://helloacm.com/tools/)
