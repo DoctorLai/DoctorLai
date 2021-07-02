@@ -1,5 +1,5 @@
 ## Hi there 👋
-From 5/July/2021, I am a Senior Software Engineer at Microsoft Research. I am also an Ex-Amazonian ([Linkedin](https://www.linkedin.com/in/doctorlai/)). I have made the following:
+An Ex-Amazonian ([Linkedin](https://www.linkedin.com/in/doctorlai/)). I have made the following:
 - [Video Downloader](https://weibomiaopai.com/download-video-parser.php)
 - [Steem Blockchain Tools](https://steemyy.com)
 - [Free Cryptos API](https://steemit.com/witness-category/@justyy/serverless-api-to-query-the-cryptos-and-fiat)
