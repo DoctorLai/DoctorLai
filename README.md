@@ -1,5 +1,9 @@
 ## Hi there 👋
-An Ex-Amazonian ([Linkedin](https://www.linkedin.com/in/doctorlai/)). I have made the following:
+I am currently a Senior Software Engineer at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/). Prior to that I worked as a SDE for Amazon Web Service ([S3 Object Lambda](https://aws.amazon.com/s3/features/object-lambda/)) and as a Staff Software Engineer for [General Electric Smallworld](https://www.ge.com/digital/applications/smallworld-gis-geospatial-asset-management).
+
+Connect me on ([Linkedin](https://www.linkedin.com/in/doctorlai/)).
+
+Here are some of my sideprojects - I write blogs and provide Free APIs and Tooling.
 - [Video Downloader](https://weibomiaopai.com/download-video-parser.php)
 - [Steem Blockchain Tools](https://steemyy.com)
 - [Free Cryptos API](https://steemit.com/witness-category/@justyy/serverless-api-to-query-the-cryptos-and-fiat)
