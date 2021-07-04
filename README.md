@@ -3,7 +3,7 @@ I am currently a Senior Software Engineer at [Microsoft Research Cambridge](http
 
 Connect me on ([Linkedin](https://www.linkedin.com/in/doctorlai/)).
 
-Here are some of my sideprojects - I write blogs and provide Free APIs and Tooling.
+Here are some of my side-projects - I write blogs and provide Free APIs and Tooling.
 - [Video Downloader](https://weibomiaopai.com/download-video-parser.php)
 - [Steem Blockchain Tools](https://steemyy.com)
 - [Free Cryptos API](https://steemit.com/witness-category/@justyy/serverless-api-to-query-the-cryptos-and-fiat)
