@@ -7,6 +7,7 @@ Here are some of my side-projects - I write blogs and provide Free APIs and Tool
 - [Video Downloader](https://weibomiaopai.com/download-video-parser.php)
 - [Steem Blockchain Tools](https://steemyy.com)
 - [Free Cryptos API](https://steemit.com/witness-category/@justyy/serverless-api-to-query-the-cryptos-and-fiat)
+- [Sudoku API](https://steemit.com/witness-category/@justyy/made-a-sudoku-api)
 - [VPS Database](https://anothervps.com/vps-database/)
 - [Computing Technology Blog](https://helloacm.com)
 - [A few useless tools](https://helloacm.com/tools/)
