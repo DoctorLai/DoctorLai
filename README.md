@@ -41,4 +41,4 @@ Here are my profiles on online judges:
 
 ![](https://projecteuler.net/profile/justyy.png)
 
-PS: The above content is available at [zhihua-lai.com](https://zhihua-lai.com/)
+PS: For more updates, please visit my personal website: [zhihua-lai.com](https://zhihua-lai.com/)
