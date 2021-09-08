@@ -16,7 +16,7 @@ Here are some of my side-projects - I write blogs and provide Free APIs and Tool
 - [LOGO Turtle Programming Chrome Extension](https://chrome.google.com/webstore/detail/logo-turtle-graphics/dcoeaobaokbccdcnadncifmconllpihp)
 - [Teaching Kids Programming - Youtube Channel](https://youtube.com/c/DoctorLai) and [All Contents](https://github.com/DoctorLai/Teaching-Kids-Programming/blob/main/README.md)
 
-Like what I am doing? [Buy me a coffee please](https://helloacm.com/out/buymecoffee) or [Become my sponsor](https://github.com/sponsors/DoctorLai).
+Like what I am doing? [Buy me a coffee please ☕](https://helloacm.com/out/buymecoffee) or [Become my sponsor 💰](https://github.com/sponsors/DoctorLai).
 
 ## Free VPS Credit
 - $100 [Vultr Cloud VPS Credits](https://helloacm.com/out/vultr)
