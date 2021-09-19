@@ -5,6 +5,7 @@ Connect me on ([Linkedin](https://www.linkedin.com/in/doctorlai/)). My profile a
 
 Here are some of my side-projects - I write blogs and provide Free APIs and Tooling.
 - [Video Downloader](https://weibomiaopai.com/download-video-parser.php)
+- [Job Search and Referrals](https://zhihua-lai.com/#jobs)
 - [Steem Blockchain Tools](https://steemyy.com)
 - [Free Cryptos API](https://steemit.com/witness-category/@justyy/serverless-api-to-query-the-cryptos-and-fiat)
 - [Sudoku API](https://steemit.com/witness-category/@justyy/made-a-sudoku-api)
