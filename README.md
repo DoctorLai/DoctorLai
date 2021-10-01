@@ -3,6 +3,8 @@ I am currently a Senior Software Engineer at [Microsoft Research Cambridge](http
 
 Connect me on ([Linkedin](https://www.linkedin.com/in/doctorlai/)). My profile at [Microsoft Research](https://www.microsoft.com/en-us/research/people/zhihualai/).
 
+![720463646ec33f2f659f59d4e84e961](https://user-images.githubusercontent.com/1764434/135664059-0be252aa-679a-4f30-b8d2-f6dba0bf91d2.png)
+
 Here are some of my side-projects - I write blogs and provide Free APIs and Tooling.
 - [Video Downloader](https://weibomiaopai.com/download-video-parser.php)
 - [Job Search and Referrals](https://zhihua-lai.com/#jobs)
