@@ -45,4 +45,4 @@ Here are my profiles on online judges:
 
 ![](https://projecteuler.net/profile/justyy.png)
 
-PS: For more updates, please visit my personal website: [zhihua-lai.com](https://zhihua-lai.com/)
+PS: For more updates, please visit my personal website: [zhihua-lai.com](https://zhihua-lai.com/) or join the [CodingNBB.com club](https://codingnbb.com)
