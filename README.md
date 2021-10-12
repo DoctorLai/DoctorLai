@@ -17,7 +17,7 @@ Here are some of my side-projects - I write blogs and provide Free APIs and Tool
 - [And some other online software/tools](https://steakovercooked.com/Software.Home)
 - [Merge Files/Videos](https://slowapi.com/merge-videos/)
 - [LOGO Turtle Programming Chrome Extension](https://chrome.google.com/webstore/detail/logo-turtle-graphics/dcoeaobaokbccdcnadncifmconllpihp)
-- [Teaching Kids Programming - Youtube Channel](https://youtube.com/c/DoctorLai) and [All Contents](https://github.com/DoctorLai/Teaching-Kids-Programming/blob/main/README.md)
+- [Teaching Kids and Wife Programming - Tutorial Videos of Data Structures and Algorithms](https://zhihua-lai.com/teaching/)
 
 Enjoy what I am doing? [Buy me a coffee please ☕](https://helloacm.com/out/buymecoffee) or [Become my sponsor 💰](https://github.com/sponsors/DoctorLai).
 
