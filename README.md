@@ -3,8 +3,6 @@ I am currently a Senior Software Engineer at [Microsoft Research Cambridge](http
 
 Connect me on ([Linkedin](https://www.linkedin.com/in/doctorlai/)). My profile at [Microsoft Research](https://www.microsoft.com/en-us/research/people/zhihualai/).
 
-![720463646ec33f2f659f59d4e84e961](https://user-images.githubusercontent.com/1764434/135664059-0be252aa-679a-4f30-b8d2-f6dba0bf91d2.png)
-
 Here are some of my side-projects - I write blogs and provide Free APIs and Tooling.
 - [Video Downloader](https://weibomiaopai.com/download-video-parser.php)
 - [Job Search and Referrals](https://zhihua-lai.com/#jobs)
@@ -12,7 +10,6 @@ Here are some of my side-projects - I write blogs and provide Free APIs and Tool
 - [Free Cryptos API](https://steemit.com/witness-category/@justyy/serverless-api-to-query-the-cryptos-and-fiat)
 - [Sudoku API](https://steemit.com/witness-category/@justyy/made-a-sudoku-api)
 - [VPS Database](https://anothervps.com/vps-database/)
-- [Computing Technology Blog](https://helloacm.com)
 - [A few useless tools](https://helloacm.com/tools/)
 - [And some other online software/tools](https://steakovercooked.com/Software.Home)
 - [Merge Files/Videos](https://slowapi.com/merge-videos/)
