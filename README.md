@@ -28,6 +28,7 @@ Enjoy what I am doing? [Buy me a coffee please ☕](https://helloacm.com/out/buy
 - $5 (welcome30) [VPS Server Cloud VPS Credits](https://helloacm.com/out/vpss)
 
 ## Social Networks
+- [@justyy at Voice/NFT](https://www.voice.com/justyy)
 - [@doctorzlai at Twitter](https://twitter.com/doctorzlai)
 - [@justyy at steem blockchain](https://steemit.com/@justyy)
 - [@justyy at blurt blockchain](https://blurt.blog/@justyy)
@@ -40,7 +41,6 @@ Here are my profiles on online judges:
 - https://acm.timus.ru/author.aspx?id=46914
 - https://codeforces.com/profile/DoctorLai
 - https://projecteuler.net/progress=justyy
-
 
 ![](https://projecteuler.net/profile/justyy.png)
 
