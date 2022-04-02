@@ -4,7 +4,7 @@ I am currently a Senior Software Engineer at [Microsoft Research Cambridge](http
 Connect me on ([Linkedin](https://www.linkedin.com/in/doctorlai/)). My profile at [Microsoft Research](https://www.microsoft.com/en-us/research/people/zhihualai/).
 
 Here are some of my side-projects - I write blogs and provide Free APIs and Tooling.
-- [TronFAQ Telegram Bot](https://t.me/TronFAQBot) - [TronFAQ Discord Bot](https://discord.com/oauth2/authorize?client_id=943400350432526386&permissions=8&scope=bot)
+- [TronFAQ Telegram Bot](https://t.me/TronFAQBot) and [TronFAQ Discord Bot](https://discord.com/oauth2/authorize?client_id=943400350432526386&permissions=8&scope=bot)
   - A Bot to Answer some FAQ for Tron Network using AI & Machine Learning Algorithms
   - Distribute [Test Shasta Coins](https://shasta.tronscan.org/#/)
 - [Video Downloader](https://weibomiaopai.com/download-video-parser.php)
