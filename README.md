@@ -6,8 +6,8 @@ Connect me on ([Linkedin](https://www.linkedin.com/in/doctorlai/)). My profile a
 Here are some of my side-projects - I write blogs and provide Free APIs and Tooling.
 - [TronFAQ Telegram Bot](https://t.me/TronFAQBot) and [TronFAQ Discord Bot](https://discord.com/oauth2/authorize?client_id=943400350432526386&permissions=8&scope=bot)
   - A Bot to Answer some FAQ for Tron Network using AI & Machine Learning Algorithms
-  - Distribute [USDT](https://shasta.tronscan.io/#/token20/TG3XXyExBkPp9nzdajDZsozEu4BkaSJozs) and TRX on [Tron Shasta Test Net](https://shasta.tronscan.org/#/address/TSNEe5Tf4rnc9zPMNXfaTF5fZfHDDH8oyW) 
-  - Distribute  [USDT](https://nile.tronscan.org/#/contract/TXYZopYRdj2D9XRtbG411XZZ3kM5VkAeBf) and TRX on [Tron Nile Test Net](https://nile.tronscan.org/#/address/TSNEe5Tf4rnc9zPMNXfaTF5fZfHDDH8oyW)
+  - Distribute [USDT](https://shasta.tronscan.io/#/token20/TG3XXyExBkPp9nzdajDZsozEu4BkaSJozs) and TRX coins on [Tron Blockchain Shasta Test Net](https://shasta.tronscan.org/#/address/TSNEe5Tf4rnc9zPMNXfaTF5fZfHDDH8oyW) 
+  - Distribute [USDT](https://nile.tronscan.org/#/contract/TXYZopYRdj2D9XRtbG411XZZ3kM5VkAeBf) and TRX coins on [Tron Blockchain Nile Test Net](https://nile.tronscan.org/#/address/TSNEe5Tf4rnc9zPMNXfaTF5fZfHDDH8oyW)
 - [Video Downloader](https://weibomiaopai.com/download-video-parser.php)
 - [Job Search and Referrals](https://zhihua-lai.com/#jobs)
 - [Steem Blockchain Tools](https://steemyy.com)
