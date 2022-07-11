@@ -24,6 +24,7 @@ Here are some of my side-projects - I write blogs and provide Free APIs and Tool
 - [Merge Files/Videos](https://slowapi.com/merge-videos/)
 - [LOGO Turtle Programming Chrome Extension](https://chrome.google.com/webstore/detail/logo-turtle-graphics/dcoeaobaokbccdcnadncifmconllpihp)
 - [Teaching Kids and Wife Programming - Tutorial Videos of Data Structures and Algorithms](https://zhihua-lai.com/teaching/)
+- [Simple Server to Compute the Similarity Score of Two Strings](https://github.com/DoctorLai/SimilarString)
 
 Enjoy what I am doing? [Buy me a coffee please ☕](https://helloacm.com/out/buymecoffee) or [Become a Github Sponsor 💰](https://github.com/sponsors/DoctorLai) or [Become a Patreon 💰](https://www.patreon.com/doctorlai)
 
