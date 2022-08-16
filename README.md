@@ -8,7 +8,7 @@ I am currently a Senior Software Engineer at [Microsoft Research Cambridge](http
 Connect me on ([Linkedin](https://www.linkedin.com/in/doctorlai/)). My profile at [Microsoft Research](https://www.microsoft.com/en-us/research/people/zhihualai/).
 
 Here are some of my side-projects - I write blogs and provide Free APIs and Tooling.
-- [TronFAQ Telegram Bot](https://t.me/TronFAQBot) and [TronFAQ Discord Bot](https://discord.com/oauth2/authorize?client_id=943400350432526386&permissions=8&scope=bot)
+- [TronFAQ Telegram Bot](https://t.me/TronFAQBot) and [TronFAQ Discord Bot](#)
   - A Bot to Answer some FAQ for Tron Network using AI & Machine Learning Algorithms
   - Distribute [USDT](https://shasta.tronscan.io/#/token20/TG3XXyExBkPp9nzdajDZsozEu4BkaSJozs) and [USDD](https://shasta.tronscan.io/#/contract/TVMZYcbjpjaGqmciUjzuRWzANTXfHxrRCs) and TRX coins on [Tron Blockchain Shasta Test Net](https://shasta.tronscan.org/#/address/TSNEe5Tf4rnc9zPMNXfaTF5fZfHDDH8oyW) 
   - Distribute [USDT](https://nile.tronscan.org/#/contract/TXYZopYRdj2D9XRtbG411XZZ3kM5VkAeBf) and [USDD](https://nile.tronscan.io/#/contract/TFT7sNiNDGZcqL7z7dwXUPpxrx1Ewk8iGL) and TRX coins on [Tron Blockchain Nile Test Net](https://nile.tronscan.org/#/address/TSNEe5Tf4rnc9zPMNXfaTF5fZfHDDH8oyW)
