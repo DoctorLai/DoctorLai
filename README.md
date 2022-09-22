@@ -9,9 +9,11 @@ Connect me on ([Linkedin](https://www.linkedin.com/in/doctorlai/)). My profile a
 
 Here are some of my side-projects - I write blogs and provide Free APIs and Tooling.
 - [TronFAQ Telegram Bot](https://t.me/TronFAQBot) and [TronFAQ Discord Bot](#)
-  - A Bot to Answer some FAQ for Tron Network using AI & Machine Learning Algorithms
-  - Distribute [USDT](https://shasta.tronscan.io/#/token20/TG3XXyExBkPp9nzdajDZsozEu4BkaSJozs) and [USDD](https://shasta.tronscan.io/#/contract/TVMZYcbjpjaGqmciUjzuRWzANTXfHxrRCs) and TRX coins on [Tron Blockchain Shasta Test Net](https://shasta.tronscan.org/#/address/TSNEe5Tf4rnc9zPMNXfaTF5fZfHDDH8oyW) 
-  - Distribute [USDT](https://nile.tronscan.org/#/contract/TXYZopYRdj2D9XRtbG411XZZ3kM5VkAeBf) and [USDD](https://nile.tronscan.io/#/contract/TFT7sNiNDGZcqL7z7dwXUPpxrx1Ewk8iGL) and TRX coins on [Tron Blockchain Nile Test Net](https://nile.tronscan.org/#/address/TSNEe5Tf4rnc9zPMNXfaTF5fZfHDDH8oyW)
+      <ul>
+        <li>A Bot to Answer some FAQ for Tron Network using AI & Machine Learning Algorithms</li>
+        <li>Distribute Stable Coins (<a rel=nofollow target=_blank href="https://shasta.tronscan.io/#/contract/TG3XXyExBkPp9nzdajDZsozEu4BkaSJozs">USDT</a>, <a rel=nofollow target=_blank href="https://shasta.tronscan.io/#/contract/TVMZYcbjpjaGqmciUjzuRWzANTXfHxrRCs">USDD</a>, <a rel=nofollow target=_blank href="https://shasta.tronscan.io/#/contract/TSdZwNqpHofzP6BsBKGQUWdBeJphLmF6id">USDC</a>) and TRX coins on <a target=_blank rel=nofollow href="https://shasta.tronscan.org/#/address/TSNEe5Tf4rnc9zPMNXfaTF5fZfHDDH8oyW">Tron Blockchain Shasta Test Net</a></li>
+        <li>Distribute Stable Coins (<a rel=nofollow target=_blank href="https://nile.tronscan.org/#/contract/TXYZopYRdj2D9XRtbG411XZZ3kM5VkAeBf">USDT</a>, <a rel=nofollow target=_blank href="https://nile.tronscan.io/#/contract/TFT7sNiNDGZcqL7z7dwXUPpxrx1Ewk8iGL">USDD</a>, <a rel=nofollow target=_blank href="https://nile.tronscan.io/#/contract/TEMVynQpntMqkPxP6wXTW2K7e4sM3cRmWz">USDC</a>) and TRX coins on <a target=_blank rel=nofollow href="https://nile.tronscan.org/#/address/TSNEe5Tf4rnc9zPMNXfaTF5fZfHDDH8oyW">Tron Blockchain Nile Test Net</a></li>
+        </ul>
 - [Video Downloader](https://weibomiaopai.com/download-video-parser.php)
 - [Job Search and Referrals](https://zhihua-lai.com/#jobs)
 - [Steem Blockchain Tools](https://steemyy.com)
