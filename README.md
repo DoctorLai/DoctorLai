@@ -32,7 +32,6 @@ Enjoy what I am doing? [Buy me a coffee please ☕](https://helloacm.com/out/buy
 
 ## Social Networks
 My opinions on social networks are simply my personal views only. They do not reflect or represent my current employer Microsoft, obviously.
-- [@justyy at Voice/NFT](https://www.voice.com/justyy)
 - [@doctorzlai at Twitter](https://twitter.com/doctorzlai)
 - [@justyy at steem blockchain](https://steemit.com/@justyy)
 - [@justyy at blurt blockchain](https://blurt.blog/@justyy)
