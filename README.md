@@ -1,4 +1,4 @@
-## Hi there 
+## Hi there!
 
 <img src="https://codingnbb.com/images/wavehand.gif" width="25px">
 
@@ -30,22 +30,15 @@ Here are some of my side-projects - I write blogs and provide Free APIs and Tool
 
 Enjoy what I am doing? [Buy me a coffee please ☕](https://helloacm.com/out/buymecoffee) or [Become a Github Sponsor 💰](https://github.com/sponsors/DoctorLai) or [Become a Patreon 💰](https://www.patreon.com/doctorlai)
 
-## Free VPS Credit
-- $100 [Vultr Cloud VPS Credits](https://helloacm.com/out/vultr)
-- $20 [Linode Cloud VPS Credits](https://helloacm.com/out/linode)
-- $100 [Digital Ocean Cloud VPS Credits](https://helloacm.com/out/do)
-- $15 [Atlantic Cloud VPS Credits](https://helloacm.com/out/atlantic)
-- $5 (welcome30) [VPS Server Cloud VPS Credits](https://helloacm.com/out/vpss)
-
 ## Social Networks
+My opinions on social networks are simply my personal views only. They do not reflect or represent my current employer Microsoft, obviously.
 - [@justyy at Voice/NFT](https://www.voice.com/justyy)
 - [@doctorzlai at Twitter](https://twitter.com/doctorzlai)
 - [@justyy at steem blockchain](https://steemit.com/@justyy)
 - [@justyy at blurt blockchain](https://blurt.blog/@justyy)
 
 ## Online Judges
-Here are my profiles on online judges:
-- https://binarysearch.com/@/justyy
+I love problem solving! And you can find my trails on the following places:
 - http://leetcode.com/justyy
 - http://leetcode-cn.com/u/justyyuk
 - https://acm.timus.ru/author.aspx?id=46914
