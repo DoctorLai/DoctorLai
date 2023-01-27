@@ -10,7 +10,6 @@ Here are some of my side-projects - I write blogs and provide Free APIs and Tool
         <li>Distribute Stable Coins (<a rel=nofollow target=_blank href="https://nile.tronscan.org/#/contract/TXYZopYRdj2D9XRtbG411XZZ3kM5VkAeBf">USDT</a>, <a rel=nofollow target=_blank href="https://nile.tronscan.io/#/contract/TFT7sNiNDGZcqL7z7dwXUPpxrx1Ewk8iGL">USDD</a>, <a rel=nofollow target=_blank href="https://nile.tronscan.io/#/contract/TEMVynQpntMqkPxP6wXTW2K7e4sM3cRmWz">USDC</a>) and TRX coins on <a target=_blank rel=nofollow href="https://nile.tronscan.org/#/address/TSNEe5Tf4rnc9zPMNXfaTF5fZfHDDH8oyW">Tron Blockchain Nile Test Net</a></li>
         </ul>
 - [Video Downloader](https://weibomiaopai.com/download-video-parser.php)
-- [Job Search and Referrals](https://zhihua-lai.com/#jobs)
 - [Steem Blockchain Tools](https://steemyy.com)
 - [Free Cryptos API](https://steemit.com/witness-category/@justyy/serverless-api-to-query-the-cryptos-and-fiat)
 - [Coin Lookup Telegram Bot](https://t.me/CoinLookupBot) - [Coin Lookup Discord Bot](https://discord.com/oauth2/authorize?client_id=417847038697406467&permissions=522304&scope=bot)
