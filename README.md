@@ -11,6 +11,19 @@ Here are some of my side-projects - I write blogs and provide Free APIs and Tool
         </ul>
 - [Video Downloader](https://weibomiaopai.com/download-video-parser.php)
 - [Steem Blockchain Tools](https://steemyy.com)
+<li>
+    <p><a target=_blank href="https://steemyy.com">Steem Blockchain Tools</a></p>
+    <p>
+        <ul>
+            <li><a target=_blank href="https://steemyy.com/steem2usdt.php">STEEM/SBD to Tether USDT (TRON-TRC-20) Swap</a></li>
+            <li><a target=_blank href="https://steemyy.com/steem2trx.php">STEEM/SBD to TRX/TRON Swap</a></li>
+            <li><a target=_blank href="https://steemyy.com/reg.php">Free Account Registration Tool for Steem Blockchain</a></li>
+            <li><a target=_blank href="https://steemyy.com/witness-ranking">Steem Witness Ranking Table & API</a></li>
+            <li><a target=_blank href="https://steemyy.com/block.php">Steem Blockchain Explorer</a></li>
+            <li><a target=_blank href="https://steemyy.com/list-of-tools.php"><B>And so many other tools</B></a></li>
+        </ul>
+</p>
+</li>
 - [Free Cryptos API](https://steemit.com/witness-category/@justyy/serverless-api-to-query-the-cryptos-and-fiat)
 - [Coin Lookup Telegram Bot](https://t.me/CoinLookupBot) - [Coin Lookup Discord Bot](https://discord.com/oauth2/authorize?client_id=417847038697406467&permissions=522304&scope=bot)
 - [Sudoku API](https://steemit.com/witness-category/@justyy/made-a-sudoku-api) and [other String APIs](https://str.justyy.workers.dev/)
