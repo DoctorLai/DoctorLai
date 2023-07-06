@@ -17,6 +17,7 @@ Here are some of my side-projects - I write blogs and provide Free APIs and Tool
             <li><a target=_blank href="https://steemyy.com/reg.php">Free Account Registration Tool for Steem Blockchain</a></li>
             <li><a target=_blank href="https://steemyy.com/witness-ranking">Steem Witness Ranking Table & API</a></li>
             <li><a target=_blank href="https://steemyy.com/block.php">Steem Blockchain Explorer</a></li>
+            <li><a target=_blank href="https://helloacm.com/integrating-chatgpt-prompt-ai-to-steem-blockchain/">Integrating ChatGPT Prompt AI to STEEM blockchain</a></li>
             <li><a target=_blank href="https://steemyy.com/list-of-tools.php"><B>And so many other tools</B></a></li>
       </ul>
 - [Free Cryptos API](https://steemit.com/witness-category/@justyy/serverless-api-to-query-the-cryptos-and-fiat)
