@@ -14,6 +14,7 @@ Here are some of my side-projects - I write blogs and provide Free APIs and Tool
        <ul>
             <li><a target=_blank href="https://steemyy.com/steem2usdt.php">STEEM/SBD to Tether USDT (TRON-TRC-20) Swap</a></li>
             <li><a target=_blank href="https://steemyy.com/steem2trx.php">STEEM/SBD to TRX/TRON Swap</a></li>
+            <li><a target=_blank href="https://steemyy.com/steem2bts.php">STEEM/SBD to BTS/BitShares Swap</a></li>
             <li><a target=_blank href="https://steemyy.com/reg.php">Free Account Registration Tool for Steem Blockchain</a></li>
             <li><a target=_blank href="https://steemyy.com/witness-ranking">Steem Witness Ranking Table & API</a></li>
             <li><a target=_blank href="https://steemyy.com/block.php">Steem Blockchain Explorer</a></li>
