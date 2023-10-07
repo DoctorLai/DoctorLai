@@ -12,6 +12,7 @@ Here are some of my side-projects - I write blogs and provide Free APIs and Tool
 - [Video Downloader](https://weibomiaopai.com/download-video-parser.php)
 - [Steem Blockchain Tools](https://steemyy.com)
        <ul>
+            <li><a target=_blank href="https://steemyy.com/steem2eth.php">STEEM/SBD to ETH (Ethereum) Swap</a></li>
             <li><a target=_blank href="https://steemyy.com/steem2usdt.php">STEEM/SBD to Tether USDT (TRON-TRC-20) Swap</a></li>
             <li><a target=_blank href="https://steemyy.com/steem2trx.php">STEEM/SBD to TRX/TRON Swap</a></li>
             <li><a target=_blank href="https://steemyy.com/steem2bts.php">STEEM/SBD to BTS/BitShares Swap</a></li>
