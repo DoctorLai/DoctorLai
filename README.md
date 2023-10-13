@@ -39,3 +39,4 @@ Enjoy what I am doing? [Buy me a coffee please ☕](https://helloacm.com/out/buy
 ## My CV
 - [here](https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md), [here](https://zhihua-lai.com), or [here](https://www.microsoft.com/en-us/research/people/zhihualai/)
 - [这里](https://github.com/DoctorLai/resume/blob/main/zhihua-lai-ch.md)
+- [My Badges @ Holopin](https://www.holopin.io/@doctorlai#)
