@@ -34,7 +34,7 @@ Here are some of my side-projects - I write blogs and provide Free APIs and Tool
 - [Simple Server to Compute the Similarity Score of Two Strings](https://github.com/DoctorLai/SimilarString)
 - [A Simple Health Check Tool](https://github.com/DoctorLai/health-checks)
 
-Enjoy what I am doing? [Buy me a coffee please ☕](https://helloacm.com/out/buymecoffee) or [Become a Github Sponsor 💰](https://github.com/sponsors/DoctorLai) or [Become a Patreon 💰](https://www.patreon.com/doctorlai)
+Enjoy what I am doing? [Buy me a coffee please ☕](https://helloacm.com/out/buymecoffee) or [Become a Github Sponsor 💰](https://github.com/sponsors/DoctorLai) or [Become a Patreon 💰](https://www.patreon.com/doctorlai) or **[Crypto Payment Accepted](https://justyy.com/out/cryptopayment)**
 
 ## My CV
 - [here](https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md), [here](https://zhihua-lai.com), or [here](https://www.microsoft.com/en-us/research/people/zhihualai/)
