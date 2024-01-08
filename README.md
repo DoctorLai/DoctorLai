@@ -45,3 +45,6 @@ Enjoy what I am doing? Support me via:
 - [here](https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md), [here](https://zhihua-lai.com), or [here](https://www.microsoft.com/en-us/research/people/zhihualai/)
 - [这里](https://github.com/DoctorLai/resume/blob/main/zhihua-lai-ch.md)
 - [My Badges @ Holopin](https://www.holopin.io/@doctorlai#)
+
+## Github Discussions
+[Share Ideas via Github Discussions](https://github.com/DoctorLai/DoctorLai/discussions)
