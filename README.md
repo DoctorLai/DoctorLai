@@ -47,5 +47,6 @@ Enjoy what I am doing? Support me via:
 - [这里](https://github.com/DoctorLai/resume/blob/main/zhihua-lai-ch.md)
 - [My Badges @ Holopin](https://www.holopin.io/@doctorlai#)
 
-## Github Discussions
-[Share Ideas via Github Discussions](https://github.com/DoctorLai/DoctorLai/discussions)
+## Github
+- [Share Ideas via Github Discussions](https://github.com/DoctorLai/DoctorLai/discussions)
+- [Gist](https://gist.github.com/doctorlai)
