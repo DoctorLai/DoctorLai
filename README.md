@@ -50,3 +50,5 @@ Enjoy what I am doing? Support me via:
 ## Github
 - [Share Ideas via Github Discussions](https://github.com/DoctorLai/DoctorLai/discussions)
 - [Gist](https://gist.github.com/doctorlai)
+- [Awesome STEEM](https://github.com/Doctorlai/awesome-steem)
+
