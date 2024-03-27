@@ -52,3 +52,9 @@ Enjoy what I am doing? Support me via:
 - [Gist](https://gist.github.com/doctorlai)
 - [Awesome STEEM](https://github.com/Doctorlai/awesome-steem)
 
+## Social/Blog
+- [Substack](https://doctorlai.substack.com/)
+- [Mirror.xyz](https://mirror.xyz/0xa80a14E014C3a10ef50aa5Cd3FE22393181b1749)
+- [Steemit](https://steemit.com/@justyy)
+- [Blurt](https://steemit.com/@justyy)
+- [Linkedin](https://www.linkedin.com/in/doctorlai/)
