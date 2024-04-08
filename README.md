@@ -51,6 +51,7 @@ Enjoy what I am doing? Support me via:
 - [Share Ideas via Github Discussions](https://github.com/DoctorLai/DoctorLai/discussions)
 - [Gist](https://gist.github.com/doctorlai)
 - [Awesome STEEM](https://github.com/Doctorlai/awesome-steem)
+- [TronFAQ](https://github.com/DoctorLai/Tron-FAQ)
 
 ## Social/Blog
 - [Substack](https://doctorlai.substack.com/)
