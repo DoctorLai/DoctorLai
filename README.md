@@ -59,4 +59,4 @@ Enjoy what I am doing? Support me via:
 - [Steemit](https://steemit.com/@justyy)
 - [Blurt](https://steemit.com/@justyy)
 - [Linkedin](https://www.linkedin.com/in/doctorlai/)
-- [Google Profile](https://g.dev/doctorlai)
+- [Google for Developers Profile](https://g.dev/doctorlai)
