@@ -10,9 +10,9 @@ Here are some of my side-projects - I write blogs and provide Free APIs and Tool
         <li>Tron Nile Faucet: Distribute Stable Coins (<a rel=nofollow target=_blank href="https://nile.tronscan.org/#/contract/TXYZopYRdj2D9XRtbG411XZZ3kM5VkAeBf">USDT</a>, <a rel=nofollow target=_blank href="https://nile.tronscan.io/#/contract/TFT7sNiNDGZcqL7z7dwXUPpxrx1Ewk8iGL">USDD</a>, <a rel=nofollow target=_blank href="https://nile.tronscan.io/#/contract/TEMVynQpntMqkPxP6wXTW2K7e4sM3cRmWz">USDC</a>) and TRX coins on <a target=_blank rel=nofollow href="https://nile.tronscan.org/#/address/TSNEe5Tf4rnc9zPMNXfaTF5fZfHDDH8oyW">Tron Blockchain Nile Test Net</a></li>
         </ul>
 - [Video Downloader](https://weibomiaopai.com/download-video-parser.php)
-- [Steem Blockchain Tools and DeFi Services](https://steemyy.com)
+- [Steem Blockchain Tools and DeFi (Decentralized Finance) Services](https://steemyy.com)
        <ul>
-            <li><a target=_blank href="https://steemyy.com/rent-sp.php">Steem Power Renting/Lease</a></li>
+            <li><a target=_blank href="https://steemyy.com/rent-sp.php">Steem Power Rent/Lease DeFi Service</a></li>
             <li><a target=_blank href="https://steemyy.com/steem2sol.php">STEEM/SBD to SOL (Solana) Swap</a></li>
             <li><a target=_blank href="https://steemyy.com/steem2eth.php">STEEM/SBD to ETH (Ethereum) Swap</a></li>
             <li><a target=_blank href="https://steemyy.com/steem2usdt.php">STEEM/SBD to Tether USDT (TRON-TRC-20) Swap</a></li>
