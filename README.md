@@ -50,6 +50,7 @@ Enjoy what I am doing? Support me via:
 - [My Badges @ Holopin](https://www.holopin.io/@doctorlai#)
 
 ## Github
+- [Steem Load Balancer Node](https://github.com/DoctorLai/steem-load-balancer/)
 - [Share Ideas via Github Discussions](https://github.com/DoctorLai/DoctorLai/discussions)
 - [Gist](https://gist.github.com/doctorlai)
 - [Awesome STEEM](https://github.com/Doctorlai/awesome-steem)
