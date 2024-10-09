@@ -65,6 +65,7 @@ Enjoy what I am doing? Support me via:
 - [Google for Developers Profile](https://g.dev/doctorlai)
 - [Threads](https://threads.net/@doctorlai)
 - [Instagram](https://instagram.com/doctorlai)
+- [Posts from dev.to](https://zhihua-lai.com/posts/)
 
 ## Tutoring and Advices
 - [Mock Interviews (Coding/System Design) and Career Advices](https://buymeacoffee.com/y0btg5r/extras)
