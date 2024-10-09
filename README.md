@@ -63,6 +63,8 @@ Enjoy what I am doing? Support me via:
 - [Blurt](https://steemit.com/@justyy)
 - [Linkedin](https://www.linkedin.com/in/doctorlai/)
 - [Google for Developers Profile](https://g.dev/doctorlai)
+- [Threads](https://threads.net/@doctorlai)
+- [Instagram](https://instagram.com/doctorlai)
 
 ## Tutoring and Advices
 - [Mock Interviews (Coding/System Design) and Career Advices](https://buymeacoffee.com/y0btg5r/extras)
