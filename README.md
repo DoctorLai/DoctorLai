@@ -2,6 +2,8 @@
 
 <img src="https://codingnbb.com/images/wavehand.gif" width="25px">
 
+Hello, I am currently a Senior Software Engineer at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/people/zhihualai/). My work github id is [@doctorlai-msrc](https://github.com/doctorlai-msrc). I contribute to open source projects like [microsoft/jbpf](https://github.com/microsoft/jbpf).
+
 Here are some of my side-projects - I write blogs and provide Free APIs and Tooling.
 - [TronFAQ Telegram Bot](https://t.me/TronFAQBot) and [TronFAQ Discord Bot](#)
       <ul>
