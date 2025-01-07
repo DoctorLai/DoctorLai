@@ -59,6 +59,7 @@ Enjoy what I am doing? Support me via:
 - [TronFAQ](https://github.com/DoctorLai/Tron-FAQ)
 
 ## Social/Blog
+- [Linktr.ee](https://linktr.ee/doctorlai)
 - [Substack](https://doctorlai.substack.com/)
 - [Mirror.xyz](https://mirror.xyz/0xa80a14E014C3a10ef50aa5Cd3FE22393181b1749)
 - [Steemit](https://steemit.com/@justyy)
