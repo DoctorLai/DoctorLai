@@ -29,7 +29,7 @@ Here are some of my side-projects - I write blogs and provide Free APIs and Tool
       </ul>
 - [Free Cryptos API](https://steemit.com/witness-category/@justyy/serverless-api-to-query-the-cryptos-and-fiat)
 - [Coin Lookup Telegram Bot](https://t.me/CoinLookupBot) - [Coin Lookup Discord Bot](https://discord.com/oauth2/authorize?client_id=417847038697406467&permissions=522304&scope=bot)
-- [Sudoku API](https://steemit.com/witness-category/@justyy/made-a-sudoku-api) and [other String APIs](https://str.justyy.workers.dev/)
+- [Sudoku API](https://steemit.com/witness-category/@justyy/made-a-sudoku-api) and [other String APIs](https://str.functionapi.workers.dev/)
 - [VPS Database](https://anothervps.com/vps-database/)
 - [A few useless tools](https://helloacm.com/tools/)
 - [And some other online software/tools](https://steakovercooked.com/Software.Home)
