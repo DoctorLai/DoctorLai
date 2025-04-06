@@ -56,6 +56,7 @@ Enjoy what I am doing? Support me via:
 
 ## Github
 - [Steem Load Balancer Node](https://github.com/DoctorLai/steem-load-balancer/)
+- [Flask App with Sentence Transformers](https://github.com/DoctorLai/SimilarString)
 - [Share Ideas via Github Discussions](https://github.com/DoctorLai/DoctorLai/discussions)
 - [Gist](https://gist.github.com/doctorlai)
 - [Awesome STEEM](https://github.com/Doctorlai/awesome-steem)
