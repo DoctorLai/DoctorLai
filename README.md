@@ -40,6 +40,7 @@ Here are some of my side-projects - I write blogs and provide Free APIs and Tool
 - [LOGO Turtle Programming Chrome Extension](https://chrome.google.com/webstore/detail/logo-turtle-graphics/dcoeaobaokbccdcnadncifmconllpihp)
 - [Teaching Kids and Wife Programming - Tutorial Videos of Data Structures and Algorithms](https://zhihua-lai.com/teaching/)
 - [Flask App with Sentence Transformers](https://github.com/DoctorLai/SimilarString)
+- [Steem Load Balancer Node](https://github.com/DoctorLai/steem-load-balancer/)
 - [A Simple Health Check Tool](https://github.com/DoctorLai/health-checks)
 
 Enjoy what I am doing? Support me via:
