@@ -19,6 +19,7 @@ Here are some of my side-projects - I write blogs and provide Free APIs and Tool
        <ul>
             <li><a target=_blank href="https://steemyy.com/tron2steem.php">TRON:TRX/USDT/USDD to STEEM Swap</a></li>
             <li><a target=_blank href="https://steemyy.com/rent-sp.php">Steem Power Rent/Lease DeFi Service</a></li>
+            <li><a target=_blank href="https://steemyy.com/steem2sui">STEEM/SBD to SUI Swap</a></li>
             <li><a target=_blank href="https://steemyy.com/steem2sol.php">STEEM/SBD to SOL (Solana) Swap</a></li>
             <li><a target=_blank href="https://steemyy.com/steem2eth.php">STEEM/SBD to ETH (Ethereum) Swap</a></li>
             <li><a target=_blank href="https://steemyy.com/steem2usdt.php">STEEM/SBD to Tether USDT (TRON-TRC-20) Swap</a></li>
