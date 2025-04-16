@@ -2,6 +2,8 @@
 
 <img src="https://codingnbb.com/images/wavehand.gif" width="25px">
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=doctorlai&show_icons=true&theme=transparent)
+
 Hello, I am currently a Senior Software Engineer at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/people/zhihualai/). My work github id is [@doctorlai-msrc](https://github.com/doctorlai-msrc). I contribute to open source projects such as:
 - [microsoft/jbpf](https://github.com/microsoft/jbpf/pulls?q=is%3Apr%20author%3Adoctorlai-msrc)
 - [microsoft/jrt-controller](https://github.com/microsoft/jrt-controller/pulls?q=is%3Apr%20author%3Adoctorlai-msrc)
