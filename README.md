@@ -10,12 +10,6 @@ Hello, I am currently a Senior Software Engineer at [Microsoft Research Cambridg
 - [microsoft/jbpf-protobuf](https://github.com/microsoft/jbpf-protobuf/pulls?q=is%3Apr%20author%3Adoctorlai-msrc).
 
 Here are some of my side-projects - I write blogs and provide Free APIs and Tooling.
-- [TronFAQ Telegram Bot](https://t.me/TronFAQBot) and [TronFAQ Discord Bot](#) **Offline**
-      <ul>
-        <li>A Bot to Answer some FAQ for Tron Network using AI & Machine Learning Algorithms</li>
-        <li>Tron Shasta Faucet: Distribute Stable Coins (<a rel=nofollow target=_blank href="https://shasta.tronscan.io/#/contract/TG3XXyExBkPp9nzdajDZsozEu4BkaSJozs">USDT</a>, <a rel=nofollow target=_blank href="https://shasta.tronscan.io/#/contract/TVMZYcbjpjaGqmciUjzuRWzANTXfHxrRCs">USDD</a>, <a rel=nofollow target=_blank href="https://shasta.tronscan.io/#/contract/TSdZwNqpHofzP6BsBKGQUWdBeJphLmF6id">USDC</a>) and TRX coins on <a target=_blank rel=nofollow href="https://shasta.tronscan.org/#/address/TSNEe5Tf4rnc9zPMNXfaTF5fZfHDDH8oyW">Tron Blockchain Shasta Test Net</a></li>
-        <li>Tron Nile Faucet: Distribute Stable Coins (<a rel=nofollow target=_blank href="https://nile.tronscan.org/#/contract/TXYZopYRdj2D9XRtbG411XZZ3kM5VkAeBf">USDT</a>, <a rel=nofollow target=_blank href="https://nile.tronscan.io/#/contract/TFT7sNiNDGZcqL7z7dwXUPpxrx1Ewk8iGL">USDD</a>, <a rel=nofollow target=_blank href="https://nile.tronscan.io/#/contract/TEMVynQpntMqkPxP6wXTW2K7e4sM3cRmWz">USDC</a>) and TRX coins on <a target=_blank rel=nofollow href="https://nile.tronscan.org/#/address/TSNEe5Tf4rnc9zPMNXfaTF5fZfHDDH8oyW">Tron Blockchain Nile Test Net</a></li>
-        </ul>
 - [Video Downloader](https://weibomiaopai.com/download-video-parser.php)
 - [Steem Blockchain Tools and DeFi (Decentralized Finance) Services](https://steemyy.com)
        <ul>
@@ -42,15 +36,18 @@ Here are some of my side-projects - I write blogs and provide Free APIs and Tool
 - [Merge Files/Videos](https://slowapi.com/merge-videos/)
 - [LOGO Turtle Programming Chrome Extension](https://chrome.google.com/webstore/detail/logo-turtle-graphics/dcoeaobaokbccdcnadncifmconllpihp)
 - [Teaching Kids and Wife Programming - Tutorial Videos of Data Structures and Algorithms](https://zhihua-lai.com/teaching/)
+- [TronFAQ Telegram Bot](https://t.me/TronFAQBot) and [TronFAQ Discord Bot](#) **Offline**
+      <ul>
+        <li>A Bot to Answer some FAQ for Tron Network using AI & Machine Learning Algorithms</li>
+        <li>Tron Shasta Faucet: Distribute Stable Coins (<a rel=nofollow target=_blank href="https://shasta.tronscan.io/#/contract/TG3XXyExBkPp9nzdajDZsozEu4BkaSJozs">USDT</a>, <a rel=nofollow target=_blank href="https://shasta.tronscan.io/#/contract/TVMZYcbjpjaGqmciUjzuRWzANTXfHxrRCs">USDD</a>, <a rel=nofollow target=_blank href="https://shasta.tronscan.io/#/contract/TSdZwNqpHofzP6BsBKGQUWdBeJphLmF6id">USDC</a>) and TRX coins on <a target=_blank rel=nofollow href="https://shasta.tronscan.org/#/address/TSNEe5Tf4rnc9zPMNXfaTF5fZfHDDH8oyW">Tron Blockchain Shasta Test Net</a></li>
+        <li>Tron Nile Faucet: Distribute Stable Coins (<a rel=nofollow target=_blank href="https://nile.tronscan.org/#/contract/TXYZopYRdj2D9XRtbG411XZZ3kM5VkAeBf">USDT</a>, <a rel=nofollow target=_blank href="https://nile.tronscan.io/#/contract/TFT7sNiNDGZcqL7z7dwXUPpxrx1Ewk8iGL">USDD</a>, <a rel=nofollow target=_blank href="https://nile.tronscan.io/#/contract/TEMVynQpntMqkPxP6wXTW2K7e4sM3cRmWz">USDC</a>) and TRX coins on <a target=_blank rel=nofollow href="https://nile.tronscan.org/#/address/TSNEe5Tf4rnc9zPMNXfaTF5fZfHDDH8oyW">Tron Blockchain Nile Test Net</a></li>
+        </ul>
 
 ## Open Source Projects
 - [Steem Load Balancer Node](https://github.com/DoctorLai/steem-load-balancer/)
 - [Simple LLM Telegram Bot](https://github.com/DoctorLai/llm-telegram-bot)
 - [Flask App with Sentence Transformers](https://github.com/DoctorLai/SimilarString)
-- [Share Ideas via Github Discussions](https://github.com/DoctorLai/DoctorLai/discussions)
-- [Gist](https://gist.github.com/doctorlai)
 - [Awesome STEEM](https://github.com/Doctorlai/awesome-steem)
-- [TronFAQ](https://github.com/DoctorLai/Tron-FAQ)
 
 Enjoy what I am doing? Support me via:
 - [Buy me a coffee please ☕](https://helloacm.com/out/buymecoffee)
@@ -75,6 +72,8 @@ Enjoy what I am doing? Support me via:
 - [Threads](https://threads.net/@doctorlai)
 - [Instagram](https://instagram.com/doctorlai)
 - [Posts from dev.to](https://zhihua-lai.com/posts/)
+- [Gist](https://gist.github.com/doctorlai)
 
 ## Tutoring and Advices
 - [Mock Interviews (Coding/System Design) and Career Advices](https://buymeacoffee.com/y0btg5r/extras)
+- [Share Ideas via Github Discussions](https://github.com/DoctorLai/DoctorLai/discussions)
