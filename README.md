@@ -10,7 +10,7 @@ Hello, I am currently a Senior Software Engineer at [Microsoft Research Cambridg
 - [microsoft/jbpf-protobuf](https://github.com/microsoft/jbpf-protobuf/pulls?q=is%3Apr%20author%3Adoctorlai-msrc).
 
 Here are some of my side-projects - I write blogs and provide Free APIs and Tooling.
-- [TronFAQ Telegram Bot](https://t.me/TronFAQBot) and [TronFAQ Discord Bot](#)
+- [TronFAQ Telegram Bot](https://t.me/TronFAQBot) and [TronFAQ Discord Bot](#) **Offline**
       <ul>
         <li>A Bot to Answer some FAQ for Tron Network using AI & Machine Learning Algorithms</li>
         <li>Tron Shasta Faucet: Distribute Stable Coins (<a rel=nofollow target=_blank href="https://shasta.tronscan.io/#/contract/TG3XXyExBkPp9nzdajDZsozEu4BkaSJozs">USDT</a>, <a rel=nofollow target=_blank href="https://shasta.tronscan.io/#/contract/TVMZYcbjpjaGqmciUjzuRWzANTXfHxrRCs">USDD</a>, <a rel=nofollow target=_blank href="https://shasta.tronscan.io/#/contract/TSdZwNqpHofzP6BsBKGQUWdBeJphLmF6id">USDC</a>) and TRX coins on <a target=_blank rel=nofollow href="https://shasta.tronscan.org/#/address/TSNEe5Tf4rnc9zPMNXfaTF5fZfHDDH8oyW">Tron Blockchain Shasta Test Net</a></li>
@@ -42,9 +42,15 @@ Here are some of my side-projects - I write blogs and provide Free APIs and Tool
 - [Merge Files/Videos](https://slowapi.com/merge-videos/)
 - [LOGO Turtle Programming Chrome Extension](https://chrome.google.com/webstore/detail/logo-turtle-graphics/dcoeaobaokbccdcnadncifmconllpihp)
 - [Teaching Kids and Wife Programming - Tutorial Videos of Data Structures and Algorithms](https://zhihua-lai.com/teaching/)
-- [Flask App with Sentence Transformers](https://github.com/DoctorLai/SimilarString)
+
+## Open Source Projects
 - [Steem Load Balancer Node](https://github.com/DoctorLai/steem-load-balancer/)
-- [A Simple Health Check Tool](https://github.com/DoctorLai/health-checks)
+- [Simple LLM Telegram Bot](https://github.com/DoctorLai/llm-telegram-bot)
+- [Flask App with Sentence Transformers](https://github.com/DoctorLai/SimilarString)
+- [Share Ideas via Github Discussions](https://github.com/DoctorLai/DoctorLai/discussions)
+- [Gist](https://gist.github.com/doctorlai)
+- [Awesome STEEM](https://github.com/Doctorlai/awesome-steem)
+- [TronFAQ](https://github.com/DoctorLai/Tron-FAQ)
 
 Enjoy what I am doing? Support me via:
 - [Buy me a coffee please ☕](https://helloacm.com/out/buymecoffee)
@@ -57,14 +63,6 @@ Enjoy what I am doing? Support me via:
 - [here](https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md), [here](https://zhihua-lai.com), or [here](https://www.microsoft.com/en-us/research/people/zhihualai/)
 - [这里](https://github.com/DoctorLai/resume/blob/main/zhihua-lai-ch.md)
 - [My Badges @ Holopin](https://www.holopin.io/@doctorlai#)
-
-## Github
-- [Steem Load Balancer Node](https://github.com/DoctorLai/steem-load-balancer/)
-- [Flask App with Sentence Transformers](https://github.com/DoctorLai/SimilarString)
-- [Share Ideas via Github Discussions](https://github.com/DoctorLai/DoctorLai/discussions)
-- [Gist](https://gist.github.com/doctorlai)
-- [Awesome STEEM](https://github.com/Doctorlai/awesome-steem)
-- [TronFAQ](https://github.com/DoctorLai/Tron-FAQ)
 
 ## Social/Blog
 - [Linktr.ee](https://linktr.ee/doctorlai)
