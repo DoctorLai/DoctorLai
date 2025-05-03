@@ -36,6 +36,7 @@ Here are some of my side-projects - I write blogs and provide Free APIs and Tool
 - [Merge Files/Videos](https://slowapi.com/merge-videos/)
 - [LOGO Turtle Programming Chrome Extension](https://chrome.google.com/webstore/detail/logo-turtle-graphics/dcoeaobaokbccdcnadncifmconllpihp)
 - [Teaching Kids and Wife Programming - Tutorial Videos of Data Structures and Algorithms](https://zhihua-lai.com/teaching/)
+- [Online Yaml Json Converter Tool](https://doctorlai.github.io/yaml-json-converter/)
 - [TronFAQ Telegram Bot](https://t.me/TronFAQBot) and [TronFAQ Discord Bot](#) **Offline**
       <ul>
         <li>A Bot to Answer some FAQ for Tron Network using AI & Machine Learning Algorithms</li>
@@ -48,13 +49,15 @@ Here are some of my side-projects - I write blogs and provide Free APIs and Tool
 - [Simple LLM Telegram Bot](https://github.com/DoctorLai/llm-telegram-bot)
 - [Flask App with Sentence Transformers](https://github.com/DoctorLai/SimilarString)
 - [Awesome STEEM](https://github.com/Doctorlai/awesome-steem)
+- [Yaml Json Converter](https://github.com/doctorlai/yaml-json-converter)
 
 Enjoy what I am doing? Support me via:
-- [Buy me a coffee please ☕](https://helloacm.com/out/buymecoffee)
+- [Buy me a coffee please ☕](buymeacoffee.com/y0BtG5R)
 - [Become a Github Sponsor 💰](https://github.com/sponsors/DoctorLai)
 - [Become a Patreon 💰](https://www.patreon.com/doctorlai)
 - **[Crypto Payment Accepted  ₿](https://justyy.com/out/cryptopayment)**
 - [Paypal 🅿️](https://justyy.com/out/paypal)
+- [thanks.dev](https://thanks.dev/doctorlai)
 
 ## My CV
 - [here](https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md), [here](https://zhihua-lai.com), or [here](https://www.microsoft.com/en-us/research/people/zhihualai/)
