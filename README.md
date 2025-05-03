@@ -68,6 +68,7 @@ Enjoy what I am doing? Support me via:
 - [Linktr.ee](https://linktr.ee/doctorlai)
 - [Substack](https://doctorlai.substack.com/)
 - [Mirror.xyz](https://mirror.xyz/0xa80a14E014C3a10ef50aa5Cd3FE22393181b1749)
+- [Mirror.xyz](https://mirror.xyz/0xc40A456843C0Af9dD7df96b142C5DCF43f63Ece6)
 - [Steemit](https://steemit.com/@justyy)
 - [Blurt](https://steemit.com/@justyy)
 - [Linkedin](https://www.linkedin.com/in/doctorlai/)
