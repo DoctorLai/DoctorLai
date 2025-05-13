@@ -37,6 +37,7 @@ Here are some of my side-projects - I write blogs and provide Free APIs and Tool
 - [LOGO Turtle Programming Chrome Extension](https://chrome.google.com/webstore/detail/logo-turtle-graphics/dcoeaobaokbccdcnadncifmconllpihp)
 - [Teaching Kids and Wife Programming - Tutorial Videos of Data Structures and Algorithms](https://zhihua-lai.com/teaching/)
 - [Online Yaml Json Converter Tool](https://doctorlai.github.io/yaml-json-converter/)
+- [Online Base64 Converter Tool](https://doctorlai.github.io/base64-converter/)
 - [TronFAQ Telegram Bot](https://t.me/TronFAQBot) and [TronFAQ Discord Bot](#) **Offline**
       <ul>
         <li>A Bot to Answer some FAQ for Tron Network using AI & Machine Learning Algorithms</li>
