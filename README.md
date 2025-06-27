@@ -5,9 +5,9 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=doctorlai&show_icons=true&theme=transparent)
 
 Hello, I am currently a Senior Software Engineer at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/people/zhihualai/). My work github id is [@doctorlai-msrc](https://github.com/doctorlai-msrc). I contribute to open source projects such as:
-- [microsoft/jbpf](https://github.com/microsoft/jbpf/pulls?q=is%3Apr%20author%3Adoctorlai-msrc)
-- [microsoft/jrt-controller](https://github.com/microsoft/jrt-controller/pulls?q=is%3Apr%20author%3Adoctorlai-msrc)
-- [microsoft/jbpf-protobuf](https://github.com/microsoft/jbpf-protobuf/pulls?q=is%3Apr%20author%3Adoctorlai-msrc).
+- [microsoft/jbpf](https://github.com/microsoft/jbpf/pulls?q=is%3Apr%20author%3Adoctorlai-msrc) | [Contributions](https://github.com/microsoft/jbpf/graphs/contributors)
+- [microsoft/jrt-controller](https://github.com/microsoft/jrt-controller/pulls?q=is%3Apr%20author%3Adoctorlai-msrc) | [Contributions](https://github.com/microsoft/jrt-controller/graphs/contributors) 
+- [microsoft/jbpf-protobuf](https://github.com/microsoft/jbpf-protobuf/pulls?q=is%3Apr%20author%3Adoctorlai-msrc) | [Contributions](https://github.com/microsoft/jbpf-protobuf/graphs/contributors) 
 
 Here are some of my side-projects - I write blogs and provide Free APIs and Tooling.
 - [Video Downloader](https://weibomiaopai.com/download-video-parser.php)
