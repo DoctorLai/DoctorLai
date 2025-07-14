@@ -83,6 +83,7 @@ Enjoy what I am doing? Support me via:
 - [Instagram](https://instagram.com/doctorlai)
 - [Posts from dev.to](https://zhihua-lai.com/posts/)
 - [Gist](https://gist.github.com/doctorlai)
+- [Matters](https://matters.town/@justyy)
 
 ## Tutoring and Advices
 - [Mock Interviews (Coding/System Design) and Career Advices](https://buymeacoffee.com/y0btg5r/extras)
