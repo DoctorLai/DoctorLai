@@ -58,7 +58,7 @@ Here are some of my side-projects - I write blogs and provide Free APIs and Tool
 - [Base64 Converter](https://github.com/doctorlai/base64-converter)
 - [ROT47 Cipher](https://github.com/doctorlai/rot47-converter)
 - [Markdown to HTML Converter](https://github.com/doctorlai/markdown-html-converter)
-- [Prime Factorization App](https://github.com/prime-factorization/)
+- [Prime Factorization App](https://github.com/doctorlai/prime-factorization)
 
 Enjoy what I am doing? Support me via:
 - [Buy me a coffee please ☕](buymeacoffee.com/y0BtG5R)
