@@ -41,8 +41,8 @@ Here are some of my side-projects - I write blogs and provide Free APIs and Tool
 - [Online Base64 Converter Tool](https://doctorlai.github.io/base64-converter/)
 - [Online ROT47 Cipher Tool](https://doctorlai.github.io/rot47-converter/)
 - [Online Markdown to HTML Converter](https://doctorlai.github.io/markdown-html-converter/)
-- [Online Simple File Hex Viewer](https://doctorlai.github.io/hex-viewer)
 - [Prime Factorization App](https://doctorlai.github.io/prime-factorization/)
+- [Online Simple File Hex Viewer](https://doctorlai.github.io/hex-viewer/)
 - [TronFAQ Telegram Bot](https://t.me/TronFAQBot) and [TronFAQ Discord Bot](#) **Offline**
       <ul>
         <li>A Bot to Answer some FAQ for Tron Network using AI & Machine Learning Algorithms</li>
