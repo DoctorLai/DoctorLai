@@ -12,7 +12,7 @@ Hello, I am currently a Senior Software Engineer at [Microsoft Research Cambridg
 
 Here are some of my side-projects - I write blogs and provide Free APIs and Tooling.
 - [Video Downloader](https://weibomiaopai.com/download-video-parser.php)
-- [Steem Blockchain Tools and DeFi (Decentralized Finance) Services](https://steemyy.com)
+- [Steem Blockchain Tools](https://steemyy.com)
        <ul>
             <li><a target=_blank href="https://steemyy.com/tron2steem.php">TRON:TRX/USDT/USDD to STEEM Swap</a></li>
             <li><a target=_blank href="https://steemyy.com/rent-sp.php">Steem Power Rent/Lease DeFi Service</a></li>
@@ -61,6 +61,7 @@ Here are some of my side-projects - I write blogs and provide Free APIs and Tool
 - [Markdown to HTML Converter](https://github.com/doctorlai/markdown-html-converter)
 - [Prime Factorization App](https://github.com/doctorlai/prime-factorization)
 - [Hex Viewer](https://github.com/doctorlai/hex-viewer)
+- [Steem Proxy Node: CloudFlare Snippet](https://github.com/DoctorLai/steem-proxy-cloudflare)
 
 Enjoy what I am doing? Support me via:
 - [Buy me a coffee please ☕](buymeacoffee.com/y0BtG5R)
