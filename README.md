@@ -9,6 +9,11 @@ Hello, I am currently a Senior Software Engineer at [Microsoft Research Cambridg
 - [microsoft/jrt-controller](https://github.com/microsoft/jrt-controller/pulls?q=is%3Apr%20author%3Adoctorlai-msrc) | [Contributions](https://github.com/microsoft/jrt-controller/graphs/contributors) 
 - [microsoft/jbpf-protobuf](https://github.com/microsoft/jbpf-protobuf/pulls?q=is%3Apr%20author%3Adoctorlai-msrc) | [Contributions](https://github.com/microsoft/jbpf-protobuf/graphs/contributors)
 - [microsoft/jrtc-apps](https://github.com/microsoft/jrtc-apps/pulls?q=is%3Apr%20author%3Adoctorlai-msrc) | [Contributions](https://github.com/microsoft/jrtc-apps/graphs/contributors) 
+- [steemit/steem](https://github.com/steemit/steem/) | [Merged Pull Requests](https://github.com/steemit/steem/issues?q=state%3Aclosed%20is%3Apr%20author%3Adoctorlai)
+
+My docker hub images:
+- [justyy/steem](https://hub.docker.com/r/justyy/steem)
+- [justyy/steem-load-balancer](https://hub.docker.com/r/justyy/steem-load-balancer)
 
 Here are some of my side-projects - I write blogs and provide Free APIs and Tooling.
 - [Video Downloader](https://weibomiaopai.com/download-video-parser.php)
