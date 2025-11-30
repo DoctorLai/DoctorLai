@@ -85,7 +85,8 @@ Enjoy what I am doing? Support me via:
 - [这里](https://github.com/DoctorLai/resume/blob/main/zhihua-lai-ch.md)
 - [My Badges @ Holopin](https://www.holopin.io/@doctorlai#)
 
-## Social/Blog
+## Social/Blog/Profile
+- [Microsoft Learn](https://learn.microsoft.com/en-us/users/zhihualai/)
 - [Linktr.ee](https://linktr.ee/doctorlai)
 - [Substack](https://doctorlai.substack.com/)
 - [Mirror.xyz](https://mirror.xyz/0xa80a14E014C3a10ef50aa5Cd3FE22393181b1749)
