@@ -19,8 +19,9 @@ My docker hub images:
 - [justyy/steem](https://hub.docker.com/r/justyy/steem)
 - [justyy/steem-load-balancer](https://hub.docker.com/r/justyy/steem-load-balancer)
 
-Keep learning:
+Keep learning!:
 - My Microsoft Learn Profile [zhihualai](https://learn.microsoft.com/en-us/users/zhihualai/)
+- My Credly Profile [zhihua-lai](https://www.credly.com/users/zhihua-lai/)
 - [StackOverflow](https://stackoverflow.com/users/1479619/justyy)
 
 Here are some of my side-projects - I write blogs and provide Free APIs and Tooling.
