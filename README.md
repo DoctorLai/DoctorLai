@@ -23,6 +23,7 @@ Keep learning!:
 - My Microsoft Learn Profile [zhihualai](https://learn.microsoft.com/en-us/users/zhihualai/)
 - My Credly Profile [zhihua-lai](https://www.credly.com/users/zhihua-lai/)
 - [StackOverflow](https://stackoverflow.com/users/1479619/justyy)
+- [cpp-coding-exercise](https://github.com/DoctorLai/cpp-coding-exercise)
 
 Here are some of my side-projects - I write blogs and provide Free APIs and Tooling.
 - [Video Downloader](https://weibomiaopai.com/download-video-parser.php)
