@@ -86,10 +86,12 @@ Enjoy what I am doing? Support me via:
 - [Paypal 🅿️](https://justyy.com/out/paypal)
 - [thanks.dev](https://thanks.dev/doctorlai)
 
-## My CV
-- [here](https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md), [here](https://zhihua-lai.com), or [here](https://www.microsoft.com/en-us/research/people/zhihualai/)
+## My Resume
+- [Short Version](https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en-two-pages.md)
+- [Long Version](https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md),
+- [Personal Page](https://zhihua-lai.com)
+- [Microsoft Research Profile Page](https://www.microsoft.com/en-us/research/people/zhihualai/)
 - [这里](https://github.com/DoctorLai/resume/blob/main/zhihua-lai-ch.md)
-- [My Badges @ Holopin](https://www.holopin.io/@doctorlai#)
 
 ## Social/Blog/Profile
 - [Microsoft Learn](https://learn.microsoft.com/en-us/users/zhihualai/)
@@ -106,6 +108,7 @@ Enjoy what I am doing? Support me via:
 - [Posts from dev.to](https://zhihua-lai.com/posts/)
 - [Gist](https://gist.github.com/doctorlai)
 - [Matters](https://matters.town/@justyy)
+- [My Badges @ Holopin](https://www.holopin.io/@doctorlai#)
 
 ## Tutoring and Advices
 - [Mock Interviews (Coding/System Design) and Career Advices](https://buymeacoffee.com/y0btg5r/extras)
