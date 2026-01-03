@@ -1,6 +1,6 @@
 ## Hi there!
 
-<img src="https://codingnbb.com/images/wavehand.gif" width="25px">
+<img src="https://codingnbb.com/images/wavehand.gif" width="25px"> My Github Page: [https://doctorlai.github.io/](https://doctorlai.github.io/)
 
 Hello, I am currently a Senior Software Engineer at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/people/zhihualai/). My work github id is [@doctorlai-msrc](https://github.com/doctorlai-msrc). I contribute to open source projects such as:
 - [microsoft/jbpf](https://github.com/microsoft/jbpf) | [Merged Pull Requests](https://github.com/microsoft/jbpf/issues?q=state%3Aclosed%20is%3Apr%20author%3Adoctorlai-msrc) | [Issues](https://github.com/microsoft/jbpf/issues?q=is%3Aissue%20author%3Adoctorlai-msrc) | [Contribution Graph](https://github.com/microsoft/jbpf/graphs/contributors)
@@ -87,11 +87,11 @@ Enjoy what I am doing? Support me via:
 - [thanks.dev](https://thanks.dev/doctorlai)
 
 ## My Resume
-- [Short Version](https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en-two-pages.md)
+- [Short Version](https://doctorlai.github.io/)
 - [Long Version](https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md),
 - [Personal Page](https://zhihua-lai.com)
 - [Microsoft Research Profile Page](https://www.microsoft.com/en-us/research/people/zhihualai/)
-- [这里](https://github.com/DoctorLai/resume/blob/main/zhihua-lai-ch.md)
+- [中文/简历](https://github.com/DoctorLai/resume/blob/main/zhihua-lai-ch.md)
 
 ## Social/Blog/Profile
 - [Microsoft Learn](https://learn.microsoft.com/en-us/users/zhihualai/)
