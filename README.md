@@ -65,6 +65,13 @@ Here are some of my side-projects - I write blogs and provide Free APIs and Tool
         <li>Tron Nile Faucet: Distribute Stable Coins (<a rel=nofollow target=_blank href="https://nile.tronscan.org/#/contract/TXYZopYRdj2D9XRtbG411XZZ3kM5VkAeBf">USDT</a>, <a rel=nofollow target=_blank href="https://nile.tronscan.io/#/contract/TFT7sNiNDGZcqL7z7dwXUPpxrx1Ewk8iGL">USDD</a>, <a rel=nofollow target=_blank href="https://nile.tronscan.io/#/contract/TEMVynQpntMqkPxP6wXTW2K7e4sM3cRmWz">USDC</a>) and TRX coins on <a target=_blank rel=nofollow href="https://nile.tronscan.org/#/address/TSNEe5Tf4rnc9zPMNXfaTF5fZfHDDH8oyW">Tron Blockchain Nile Test Net</a></li>
         </ul>
 
+## Microsoft Certified
+| Code   | Domain   | Name                                                     | Certification Number | Earned-on Date     |
+|--------|----------|----------------------------------------------------------|----------------------|--------------------|
+| AI-900 | AI       | Azure AI Fundamentals                                    | [7Z9DA9-388866](https://learn.microsoft.com/api/credentials/share/en-us/zhihualai/6AA7BEDA646A1C18?sharingId=CA5676385DA92779) | December 19, 2025 |
+| DP-900 | Data     | Azure Data Fundamentals                                  | [CD4244-E236BG](https://learn.microsoft.com/api/credentials/share/en-us/zhihualai/2A537BBC335F5B23?sharingId=CA5676385DA92779) | December 19, 2025 |
+| SC-900 | Security | Security, Compliance, and Identity Fundamentals           | [B6A851-BECO96](https://learn.microsoft.com/en-us/users/zhihualai/credentials/a6110bf1a349ffd7) | January 13, 2026 |
+
 ## Open Source Projects
 - [Steem Load Balancer Node](https://github.com/DoctorLai/steem-load-balancer/)
 - [Simple LLM Telegram Bot](https://github.com/DoctorLai/llm-telegram-bot)
