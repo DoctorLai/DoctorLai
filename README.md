@@ -61,6 +61,7 @@ Here are some of my side-projects - I write blogs and provide Free APIs and Tool
 - [Online Markdown to HTML Converter](https://doctorlai.github.io/markdown-html-converter/)
 - [Prime Factorization App](https://doctorlai.github.io/prime-factorization/)
 - [Online Simple File Hex Viewer](https://doctorlai.github.io/hex-viewer/)
+- [A Sokoban Game | 推箱子游戏](https://doctorlai.github.io/sokoban-web/?level=world1-002)
 - [TronFAQ Telegram Bot](https://t.me/TronFAQBot) and [TronFAQ Discord Bot](#) **Offline**
       <ul>
         <li>A Bot to Answer some FAQ for Tron Network using AI & Machine Learning Algorithms</li>
@@ -88,6 +89,7 @@ Here are some of my side-projects - I write blogs and provide Free APIs and Tool
 - [Prime Factorization App](https://github.com/doctorlai/prime-factorization)
 - [Hex Viewer](https://github.com/doctorlai/hex-viewer)
 - [Steem Proxy Node: CloudFlare Snippet](https://github.com/DoctorLai/steem-proxy-cloudflare)
+- [A Sokoban Game | 推箱子游戏](https://github.com/DoctorLai/sokoban-web)
 
 Enjoy what I am doing? Support me via:
 - [Buy me a coffee please ☕](buymeacoffee.com/y0BtG5R)
