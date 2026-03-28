@@ -110,8 +110,8 @@ Enjoy what I am doing? Support me via:
 
 ## My Resume
 - [Short Version](https://doctorlai.github.io/)
-- [Long Version](https://github.com/DoctorLai/resume/blob/main/zhihua-lai-resume-en.md),
+- [Long Version](https://doctorlai.github.io/full),
 - [Personal Page](https://zhihua-lai.com)
 - [Microsoft Research Profile Page](https://www.microsoft.com/en-us/research/people/zhihualai/)
-- [中文/简历](https://github.com/DoctorLai/resume/blob/main/zhihua-lai-ch.md)
+- [中文/简历](https://doctorlai.github.io/ch)
 
