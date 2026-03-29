@@ -86,6 +86,12 @@ Here are some of my side-projects - I write blogs and provide Free APIs and Tool
 | AI-900 | AI       | Azure AI Fundamentals                                    | [7Z9DA9-388866](https://learn.microsoft.com/api/credentials/share/en-us/zhihualai/6AA7BEDA646A1C18?sharingId=CA5676385DA92779) | December 19, 2025 |
 | DP-900 | Data     | Azure Data Fundamentals                                  | [CD4244-E236BG](https://learn.microsoft.com/api/credentials/share/en-us/zhihualai/2A537BBC335F5B23?sharingId=CA5676385DA92779) | December 19, 2025 |
 
+## Google Cloud Certified
+| Code   | Domain   | Name                                                     | Certification Number | Earned-on Date     |
+|--------|----------|----------------------------------------------------------|----------------------|--------------------|
+| PR000309 | AI      | Generative Al Leader                          | [03429e7450ad4c33926ed613d65793e8](https://www.credly.com/badges/501acfa5-9745-4f0f-bdbb-b0021a9322c0) | March 27, 2026 |
+
+
 ## Open Source Projects
 - [Steem Load Balancer Node](https://github.com/DoctorLai/steem-load-balancer/)
 - [Simple LLM Telegram Bot](https://github.com/DoctorLai/llm-telegram-bot)
