@@ -109,6 +109,7 @@ Here are some of my side-projects - I write blogs and provide Free APIs and Tool
 - [Simple LLM Telegram Bot](https://github.com/DoctorLai/llm-telegram-bot)
 - [Flask App with Sentence Transformers](https://github.com/DoctorLai/SimilarString)
 - [Awesome STEEM](https://github.com/Doctorlai/awesome-steem)
+- [Steem Witness Price Feed Publishing Tool](https://github.com/DoctorLai/pricefeed)
 - [Yaml Json Converter](https://github.com/doctorlai/yaml-json-converter)
 - [Base64 Converter](https://github.com/doctorlai/base64-converter)
 - [ROT47 Cipher](https://github.com/doctorlai/rot47-converter)
