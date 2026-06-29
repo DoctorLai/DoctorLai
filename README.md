@@ -56,7 +56,6 @@ Here are some of my side-projects - I write blogs and provide Free APIs and Tool
 - [A few useless tools](https://helloacm.com/tools/)
 - [And some other online software/tools](https://steakovercooked.com/Software.Home)
 - [Merge Files/Videos](https://slowapi.com/merge-videos/)
-- [LOGO Turtle Programming Chrome Extension](https://chrome.google.com/webstore/detail/logo-turtle-graphics/dcoeaobaokbccdcnadncifmconllpihp)
 - [Teaching Kids and Wife Programming - Tutorial Videos of Data Structures and Algorithms](https://zhihua-lai.com/teaching/)
 - [Online Yaml Json Converter Tool](https://doctorlai.github.io/yaml-json-converter/)
 - [Online Base64 Converter Tool](https://doctorlai.github.io/base64-converter/)
@@ -120,6 +119,21 @@ Here are some of my side-projects - I write blogs and provide Free APIs and Tool
 - [Hex Viewer](https://github.com/doctorlai/hex-viewer)
 - [Steem Proxy Node: CloudFlare Snippet](https://github.com/DoctorLai/steem-proxy-cloudflare)
 - [A Sokoban Game | 推箱子游戏](https://github.com/DoctorLai/sokoban-web)
+- [Video Download Helper](https://github.com/DoctorLai/VideoDownloadHelper/)
+- [What is My IP](https://github.com/DoctorLai/what-is-my-ip)
+- [Snake Game](https://github.com/doctorlai/snakegame)
+- [What is My IP](https://github.com/DoctorLai/what-is-my-ip)
+- [Logo Turtle Interpreter](https://github.com/DoctorLai/LogoTurtle)
+- [Simplified/Traditional Chinese Converter](https://github.com/DoctorLai/Simplified-and-Traditional-Chinese)
+- [Offline QR Code Generator/Editor](https://github.com/DoctorLai/simple-qr-code)
+
+## Chrome Extensions
+- [Simple Video Download Helper](https://chromewebstore.google.com/detail/simple-video-download-hel/ilcdiicigjaccgipndigcenjieedjohj)
+- [Show My IP Addresses (External and Local)](https://chromewebstore.google.com/detail/show-my-ip-addresses-exte/opljiobgnagdjikipnagigiacllolpaj?pli=1)
+- [LOGO Turtle Programming Chrome Extension](https://chrome.google.com/webstore/detail/logo-turtle-graphics/dcoeaobaokbccdcnadncifmconllpihp)
+- [Simple Snake Game](https://chromewebstore.google.com/detail/simple-snake-game/fbbeckekbefhhmabpfjgpjobkmnfjbec)
+- [简体繁体拼音广东话转换 Simplified/Traditional Chinese](https://chromewebstore.google.com/detail/%E7%AE%80%E4%BD%93%E7%B9%81%E4%BD%93%E6%8B%BC%E9%9F%B3%E5%B9%BF%E4%B8%9C%E8%AF%9D%E8%BD%AC%E6%8D%A2-simplifiedtra/olpihmabpjpllgmahlgiakkgaccigpfo?authuser=0&hl=en-GB)
+- [Offline QR Code Generator/Editor](https://chromewebstore.google.com/detail/offline-qr-code-generator/kfhbhjigpkcbpmknfomdobahejfajado?authuser=0&hl=en-GB)
 
 Enjoy what I am doing? Support me via:
 - [Buy me a coffee please ☕](buymeacoffee.com/y0BtG5R)
@@ -129,7 +143,7 @@ Enjoy what I am doing? Support me via:
 - [Paypal 🅿️](https://justyy.com/out/paypal)
 - [thanks.dev](https://thanks.dev/doctorlai)
 
-## My Resume
+## My Resume(s)
 - [Short Version](https://doctorlai.github.io/)
 - [Long Version](https://doctorlai.github.io/full),
 - [Personal Page](https://zhihua-lai.com)
