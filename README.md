@@ -125,7 +125,7 @@ Here are some of my side-projects - I write blogs and provide Free APIs and Tool
 - [Chrome Extension: Logo Turtle Interpreter](https://github.com/DoctorLai/LogoTurtle)
 - [Chrome Extension: Simplified/Traditional Chinese Converter](https://github.com/DoctorLai/Simplified-and-Traditional-Chinese)
 - [Chrome Extension: Offline QR Code Generator/Editor](https://github.com/DoctorLai/simple-qr-code)
-- [Chrome Extension: Steem Tools(https://github.com/DoctorLai/steemtools)
+- [Chrome Extension: Steem Tools](https://github.com/DoctorLai/steemtools)
 
 ## Chrome Extensions
 - [Simple Video Download Helper](https://chromewebstore.google.com/detail/simple-video-download-hel/ilcdiicigjaccgipndigcenjieedjohj)
