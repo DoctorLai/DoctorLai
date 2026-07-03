@@ -125,6 +125,7 @@ Here are some of my side-projects - I write blogs and provide Free APIs and Tool
 - [Chrome Extension: Logo Turtle Interpreter](https://github.com/DoctorLai/LogoTurtle)
 - [Chrome Extension: Simplified/Traditional Chinese Converter](https://github.com/DoctorLai/Simplified-and-Traditional-Chinese)
 - [Chrome Extension: Offline QR Code Generator/Editor](https://github.com/DoctorLai/simple-qr-code)
+- [Chrome Extension: Steem Tools(https://github.com/DoctorLai/steemtools)
 
 ## Chrome Extensions
 - [Simple Video Download Helper](https://chromewebstore.google.com/detail/simple-video-download-hel/ilcdiicigjaccgipndigcenjieedjohj)
@@ -133,6 +134,7 @@ Here are some of my side-projects - I write blogs and provide Free APIs and Tool
 - [Simple Snake Game](https://chromewebstore.google.com/detail/simple-snake-game/fbbeckekbefhhmabpfjgpjobkmnfjbec)
 - [简体繁体拼音广东话转换 Simplified/Traditional Chinese](https://chromewebstore.google.com/detail/%E7%AE%80%E4%BD%93%E7%B9%81%E4%BD%93%E6%8B%BC%E9%9F%B3%E5%B9%BF%E4%B8%9C%E8%AF%9D%E8%BD%AC%E6%8D%A2-simplifiedtra/olpihmabpjpllgmahlgiakkgaccigpfo?authuser=0&hl=en-GB)
 - [Offline QR Code Generator/Editor](https://chromewebstore.google.com/detail/offline-qr-code-generator/kfhbhjigpkcbpmknfomdobahejfajado?authuser=0&hl=en-GB)
+- [SteemTools](https://chromewebstore.google.com/detail/steem-tools/emjfpeecopppojbhkigjjmcahbfahhbn)
 
 Enjoy what I am doing? Support me via:
 - [Buy me a coffee please ☕](buymeacoffee.com/y0BtG5R)
