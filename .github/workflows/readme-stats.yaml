@@ -7,7 +7,7 @@ name: Readme stats
   workflow_dispatch:
   push:
     branches:
-      - main
+      - master
     paths:
       - ".github/workflows/readme-stats.yaml"
 
